@@ -1,4 +1,4 @@
 ## my datetime handling libaries
-arrow
+arrow==1.2.1
 ## networking libraries
 htmldate
